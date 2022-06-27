@@ -9,12 +9,12 @@
     <copyright>Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).</copyright>
     <lastBuildDate>Mon, 27 Jun 2022 10:45:54 +0800</lastBuildDate><atom:link href="https://glw2595.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Second Blog</title>
+      <title>My second Blog</title>
       <link>https://glw2595.github.io/2022/06/my-second-blog/</link>
       <pubDate>Mon, 27 Jun 2022 10:45:54 +0800</pubDate>
       
       <guid>https://glw2595.github.io/2022/06/my-second-blog/</guid>
-      <description>大家发</description>
+      <description>遇到的问题：从本地push到github失败，git 推送到 github时报权限禁止，解决方法是生成了token获得的权限</description>
     </item>
     
     <item>
@@ -23,7 +23,7 @@
       <pubDate>Mon, 17 Jan 2022 15:36:41 +0800</pubDate>
       
       <guid>https://glw2595.github.io/2022/01/my-first-blog/</guid>
-      <description>博客创建日 Ceremony-NewOrder</description>
+      <description>博客创建日</description>
     </item>
     
   </channel>
